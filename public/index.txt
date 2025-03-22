@@ -1,0 +1,55 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Professional consultancy website" />
+  <meta name="author" content="Your Consultancy Name" />
+  <title>Your Consultancy Name</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Your Consultancy Name</h1>
+      <p class="tagline">Helping You Navigate Complexity</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div class="container">
+        <h2>Welcome</h2>
+        <p>We provide expert consulting services to help you solve complex business challenges and grow sustainably.</p>
+      </div>
+    </section>
+
+    <section class="services">
+      <div class="container">
+        <h2>Our Services</h2>
+        <ul>
+          <li>Strategy & Advisory</li>
+          <li>Organizational Transformation</li>
+          <li>Market Research & Insights</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="contact">
+      <div class="container">
+        <h2>Contact Us</h2>
+        <p>Email: info@yourconsultancy.com</p>
+        <p>Phone: +31 123 456 789</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Your Consultancy Name | Chamber of Commerce: 12345678 | VAT: NL123456789B01</p>
+    </div>
+  </footer>
+</body>
+</html>
